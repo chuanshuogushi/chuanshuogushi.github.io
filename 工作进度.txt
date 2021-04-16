@@ -1,0 +1,3 @@
+index.html:原about_ch.html，中文简历网页
+oldindex.html:原index.html,原先的主页，展示博文
+index-en.html:原about.html,英文简历网页
