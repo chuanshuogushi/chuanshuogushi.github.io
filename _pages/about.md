@@ -32,7 +32,7 @@ Hi, I'm Boyuan Wang, a Phd student at CASIA. My research focuses on artificial i
 
 [HumanDreamer: Generating Controllable Human-Motion Videos via Decoupled Generation](https://arxiv.org/pdf/2503.24026)
 
-**Boyuan Wang\***, Xiaofeng Wang*, Chaojun Ni, Guosheng Zhao, Zhiqin Yang, Zheng Zhu, Muyang Zhang, Yukun Zhou, Xinze Chen, Guan Huang, Lihong Liu, Xingang Wang
+**Boyuan Wang\***, Xiaofeng Wang\*, Chaojun Ni, Guosheng Zhao, Zhiqin Yang, Zheng Zhu, Muyang Zhang, Yukun Zhou, Xinze Chen, Guan Huang, Lihong Liu, Xingang Wang
 
 <!-- [**Project**](https://humandreamer.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 [**Project**](https://humandreamer.github.io)<strong> | [**Paper**](https://arxiv.org/abs/2503.24026) | [**Dataset**](https://huggingface.co/datasets/chuanshuogushi/MotionVid)
@@ -41,11 +41,11 @@ Hi, I'm Boyuan Wang, a Phd student at CASIA. My research focuses on artificial i
 </div>
 </div>
 
-- [HumanDreamer-X: Photorealistic Single-image Human Avatars Reconstruction via Gaussian Restoration](https://humandreamer-x.github.io/), **Boyuan Wang\***, Runqi Ouyang*, Xiaofeng Wang*, Zheng Zhu*,  Guosheng Zhao, Chaojun Ni, Guan Huang, Lihong Liu, Xingang Wang. **arXiv Preprint**
+- [HumanDreamer-X: Photorealistic Single-image Human Avatars Reconstruction via Gaussian Restoration](https://humandreamer-x.github.io/), **Boyuan Wang\***, Runqi Ouyang\*, Xiaofeng Wang\*, Zheng Zhu\*,  Guosheng Zhao, Chaojun Ni, Guan Huang, Lihong Liu, Xingang Wang. **arXiv Preprint**
 
-- [Drivedreamer4d: World models are effective data machines for 4d driving scene representation](https://drivedreamer4d.github.io), Zhao, G., Ni, C., Wang, X., Zhu, Z., Zhang, X., Wang, Y., Huang, G., Chen, X., **Wang, B.**, Zhang, Y., Mei, W. and Wang, X. **CVPR 2025**
+- [Drivedreamer4d: World models are effective data machines for 4d driving scene representation](https://drivedreamer4d.github.io), Zhao, G.\*, Ni, C.\*, Wang, X.\*, Zhu, Z.\*, Zhang, X., Wang, Y., Huang, G., Chen, X., **Wang, B.**, Zhang, Y., Mei, W. and Wang, X. **CVPR 2025**
 
-- [Worlddreamer: Towards general world models for video generation via predicting masked tokens](https://world-dreamer.github.io/), Xiaofeng Wang*, Zheng Zhu*, Guan Huang*, **Boyuan Wang**, Xinze Chen, Jiwen Lu. **arXiv Preprint**
+- [Worlddreamer: Towards general world models for video generation via predicting masked tokens](https://world-dreamer.github.io/), Xiaofeng Wang\*, Zheng Zhu\*, Guan Huang\*, **Boyuan Wang**, Xinze Chen, Jiwen Lu. **arXiv Preprint**
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 <!-- # 🎖 Honors and Awards
