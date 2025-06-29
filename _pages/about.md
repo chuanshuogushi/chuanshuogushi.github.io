@@ -35,7 +35,7 @@ Hi, I'm Boyuan Wang, a Phd student at CASIA. My research focuses on artificial i
 **Boyuan Wang\***, Xiaofeng Wang*, Chaojun Ni, Guosheng Zhao, Zhiqin Yang, Zheng Zhu, Muyang Zhang, Yukun Zhou, Xinze Chen, Guan Huang, Lihong Liu, Xingang Wang
 
 <!-- [**Project**](https://humandreamer.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-[**Project**](https://humandreamer.github.io)<strong> [**Paper**](https://arxiv.org/abs/2503.24026)
+[**Project**](https://humandreamer.github.io)<strong> | [**Paper**](https://arxiv.org/abs/2503.24026) | [**Dataset**](https://huggingface.co/datasets/chuanshuogushi/MotionVid)
 
 - HumanDreamer is a decoupled framework for human-motion video generation that first generates diverse poses from text using MotionDiT and then synthesizes high-quality videos with improved control and fidelity.
 </div>
