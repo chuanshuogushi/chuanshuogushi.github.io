@@ -41,8 +41,9 @@ Hi, I'm Boyuan Wang, a Phd student at CASIA. My research focuses on artificial i
 </div>
 </div>
 
-- [Drivedreamer4d: World models are effective data machines for 4d driving scene representation.](https://github.com), Zhao, G., Ni, C., Wang, X., Zhu, Z., Zhang, X., Wang, Y., Huang, G., Chen, X., **Wang, B.**, Zhang, Y., Mei, W. and Wang, X. **CVPR 2025**
+- [Drivedreamer4d: World models are effective data machines for 4d driving scene representation.](https://drivedreamer4d.github.io), Zhao, G., Ni, C., Wang, X., Zhu, Z., Zhang, X., Wang, Y., Huang, G., Chen, X., **Wang, B.**, Zhang, Y., Mei, W. and Wang, X. **CVPR 2025**
 
+- [HumanDreamer-X: Photorealistic Single-image Human Avatars Reconstruction via Gaussian Restoration](https://humandreamer-x.github.io/), Zhao, G., Ni, C., Wang, X., Zhu, Z., Zhang, X., Wang, Y., Huang, G., Chen, X., **Wang, B.**, Zhang, Y., Mei, W. and Wang, X. **arXiv**
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 <!-- # 🎖 Honors and Awards
