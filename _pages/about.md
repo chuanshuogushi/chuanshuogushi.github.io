@@ -41,8 +41,7 @@ Hi, I'm Boyuan Wang, a Phd student at CASIA. My research focuses on artificial i
 </div>
 </div>
 
-- [HumanDreamer-X: Photorealistic Single-image Human Avatars Reconstruction via Gaussian Restoration](https://humandreamer-x.github.io/), **Boyuan Wang1,2\***,  Runqi Ouyang1,2*,  Xiaofeng Wang1,2*,  Zheng Zhu1*,  Guosheng Zhao1,2,  Chaojun Ni1,3, 
-Guan Huang1,  Lihong Liu2,  Xingang Wang2. **arXiv Preprint**
+- [HumanDreamer-X: Photorealistic Single-image Human Avatars Reconstruction via Gaussian Restoration](https://humandreamer-x.github.io/), **Boyuan Wang\***, Runqi Ouyang*, Xiaofeng Wang*, Zheng Zhu*,  Guosheng Zhao, Chaojun Ni, Guan Huang, Lihong Liu, Xingang Wang. **arXiv Preprint**
 
 - [Drivedreamer4d: World models are effective data machines for 4d driving scene representation](https://drivedreamer4d.github.io), Zhao, G., Ni, C., Wang, X., Zhu, Z., Zhang, X., Wang, Y., Huang, G., Chen, X., **Wang, B.**, Zhang, Y., Mei, W. and Wang, X. **CVPR 2025**
 
