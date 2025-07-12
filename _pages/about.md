@@ -41,6 +41,11 @@ Hi, I'm Boyuan Wang, a Phd student at CASIA. My research focuses on artificial i
 </div>
 </div>
 
+- [EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling](https://embodiedreamer.github.io/), **Boyuan Wang\***, Xinpan Meng\*, Xiaofeng Wang\*, Zheng Zhu\*,  Angen Ye, Yang Wang, Zhiqin Yang, Chaojun Ni, Guan Huang, Xingang Wang. **arXiv Preprint**
+
+- [WonderFree: Enhancing Novel View Quality and Cross-View
+Consistency for 3D Scene Exploration](https://wonder-free.github.io/), Chaojun Ni, Jie Li, Haoyun Li, Hengyu Liu, Xiaofeng Wang, Zheng Zhu, Guosheng Zhao, **Boyuan Wang**, Chenxin Li, Guan Huang, Wenjun Mei. **arXiv Preprint**
+
 - [HumanDreamer-X: Photorealistic Single-image Human Avatars Reconstruction via Gaussian Restoration](https://humandreamer-x.github.io/), **Boyuan Wang\***, Runqi Ouyang\*, Xiaofeng Wang\*, Zheng Zhu\*,  Guosheng Zhao, Chaojun Ni, Guan Huang, Lihong Liu, Xingang Wang. **arXiv Preprint**
 
 - [Drivedreamer4d: World models are effective data machines for 4d driving scene representation](https://drivedreamer4d.github.io), Zhao, G.\*, Ni, C.\*, Wang, X.\*, Zhu, Z.\*, Zhang, X., Wang, Y., Huang, G., Chen, X., **Wang, B.**, Zhang, Y., Mei, W. and Wang, X. **CVPR 2025**
