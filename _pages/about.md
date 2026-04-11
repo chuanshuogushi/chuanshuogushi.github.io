@@ -8,19 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Boyuan Wang, a Phd student at CASIA. My research focuses on artificial intelligence, computer vision, AIGC and Embodied AI. 
-
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-
+Hi, I'm Boyuan Wang, a PhD candidate at CASIA. My research focuses on artificial intelligence, computer vision, AIGC and Embodied AI. 
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 Two papers are accepted to CVPR2025. 
@@ -30,32 +20,55 @@ Hi, I'm Boyuan Wang, a Phd student at CASIA. My research focuses on artificial i
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/humandreamer_500x250.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[HumanDreamer: Generating Controllable Human-Motion Videos via Decoupled Generation](https://arxiv.org/pdf/2503.24026)
+HumanDreamer: Generating Controllable Human-Motion Videos via Decoupled Generation
 
 **Boyuan Wang\***, Xiaofeng Wang\*, Chaojun Ni, Guosheng Zhao, Zhiqin Yang, Zheng Zhu, Muyang Zhang, Yukun Zhou, Xinze Chen, Guan Huang, Lihong Liu, Xingang Wang
 
-<!-- [**Project**](https://humandreamer.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-[**Project**](https://humandreamer.github.io)<strong> | [**Paper**](https://arxiv.org/abs/2503.24026) | [**Dataset**](https://huggingface.co/datasets/chuanshuogushi/MotionVid)
+[**Paper**](https://arxiv.org/abs/2503.24026) | [**Project**](https://humandreamer.github.io) | [**Code**]() | [**Dataset**](https://huggingface.co/datasets/chuanshuogushi/MotionVid)
 
 - HumanDreamer is a decoupled framework for human-motion video generation that first generates diverse poses from text using MotionDiT and then synthesizes high-quality videos with improved control and fidelity.
 </div>
 </div>
 
-- [EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling](https://embodiedreamer.github.io/), **Boyuan Wang\***, Xinpan Meng\*, Xiaofeng Wang\*, Zheng Zhu\*,  Angen Ye, Yang Wang, Zhiqin Yang, Chaojun Ni, Guan Huang, Xingang Wang. **arXiv Preprint**
+- EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling
+  <br> **Boyuan Wang\***, Xinpan Meng\*, Xiaofeng Wang\*, Zheng Zhu\*, Angen Ye, Yang Wang, Zhiqin Yang, Chaojun Ni, Guan Huang, Xingang Wang. **Under Review**
+  <br> [**Paper**]() | [**Project**](https://embodiedreamer.github.io/) | [**Code**]()
 
-- [WonderFree: Enhancing Novel View Quality and Cross-View
-Consistency for 3D Scene Exploration](https://wonder-free.github.io/), Chaojun Ni, Jie Li, Haoyun Li, Hengyu Liu, Xiaofeng Wang, Zheng Zhu, Guosheng Zhao, **Boyuan Wang**, Chenxin Li, Guan Huang, Wenjun Mei. **arXiv Preprint**
+- HumanDreamer-X: Photorealistic Single-Image Human Avatars Reconstruction via Gaussian Restoration
+  <br> **Boyuan Wang\***, Runqi Ouyang\*, Xiaofeng Wang\*, Zheng Zhu\*, Guosheng Zhao, Chaojun Ni, Guan Huang, Lihong Liu, Xingang Wang. **Under Review**
+  <br> [**Paper**]() | [**Project**](https://humandreamer-x.github.io/) | [**Code**]()
 
-- [HumanDreamer-X: Photorealistic Single-image Human Avatars Reconstruction via Gaussian Restoration](https://humandreamer-x.github.io/), **Boyuan Wang\***, Runqi Ouyang\*, Xiaofeng Wang\*, Zheng Zhu\*,  Guosheng Zhao, Chaojun Ni, Guan Huang, Lihong Liu, Xingang Wang. **arXiv Preprint**
+- ReconPhys: Reconstruct Appearance and Physical Attributes from Single Video
+  <br> **Boyuan Wang\***, ... **Under Review**
+  <br> [**Paper**]() | [**Project**]() | [**Code**]()
 
-- [Drivedreamer4d: World models are effective data machines for 4d driving scene representation](https://drivedreamer4d.github.io), Zhao, G.\*, Ni, C.\*, Wang, X.\*, Zhu, Z.\*, Zhang, X., Wang, Y., Huang, G., Chen, X., **Wang, B.**, Zhang, Y., Mei, W. and Wang, X. **CVPR 2025**
+- Drivedreamer4d: World models are effective data machines for 4d driving scene representation
+  <br> Guosheng Zhao\*, Chaojun Ni\*, Xiaofeng Wang\*, Zheng Zhu\*, Xiaoniu Zhang, Yang Wang, Guan Huang, Xinze Chen, **Boyuan Wang**, Yating Zhang, Wenjun Mei, Xingang Wang. **CVPR 2025**
+  <br> [**Paper**]() | [**Project**](https://drivedreamer4d.github.io) | [**Code**]()
 
-- [Worlddreamer: Towards general world models for video generation via predicting masked tokens](https://world-dreamer.github.io/), Xiaofeng Wang\*, Zheng Zhu\*, Guan Huang\*, **Boyuan Wang**, Xinze Chen, Jiwen Lu. **arXiv Preprint**
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+- WonderFree: Enhancing Novel View Quality and Cross-View Consistency for 3D Scene Exploration
+  <br> Chaojun Ni, Jie Li, Haoyun Li, Hengyu Liu, Xiaofeng Wang, Zheng Zhu, Guosheng Zhao, **Boyuan Wang**, Chenxin Li, Guan Huang, Wenjun Mei. **arXiv Preprint**
+  <br> [**Paper**]() | [**Project**](https://wonder-free.github.io/) | [**Code**]()
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- Worlddreamer: Towards general world models for video generation via predicting masked tokens
+  <br> Xiaofeng Wang\*, Zheng Zhu\*, Guan Huang\*, **Boyuan Wang**, Xinze Chen, Jiwen Lu. **arXiv Preprint**
+  <br> [**Paper**]() | [**Project**](https://world-dreamer.github.io/) | [**Code**]()
+
+- SwiftVLA: ...
+  <br> **CVPR 2026**
+  <br> [**Paper**]() | [**Project**]() | [**Code**]()
+
+- Emma: ...
+  <br> ...
+  <br> [**Paper**]() | [**Project**]() | [**Code**]()
+
+- MimicDreamer: ...
+  <br> ...
+  <br> [**Paper**]() | [**Project**]() | [**Code**]()
+
+- VLA-R1: ...
+  <br> ...
+  <br> [**Paper**]() | [**Project**]() | [**Code**]()
 
 # 📖 Educations
 - *2022.06 - now*, Ph.D. student in Artificial Intelligence, CASIA 
